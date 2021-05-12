@@ -1,0 +1,14 @@
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\bin\Debug\RenameCleanUp.exe.config
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\bin\Debug\RenameCleanUp.exe
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\bin\Debug\RenameCleanUp.pdb
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\obj\Debug\RenameCleanUp.csprojAssemblyReference.cache
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\obj\Debug\RenameCleanUp.csproj.CoreCompileInputs.cache
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\obj\Debug\RenameCleanUp.exe
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelTool\RenameCleanUp\obj\Debug\RenameCleanUp.pdb
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\bin\Debug\RenameCleanUp.exe.config
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\bin\Debug\RenameCleanUp.exe
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\bin\Debug\RenameCleanUp.pdb
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\obj\Debug\RenameCleanUp.csprojAssemblyReference.cache
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\obj\Debug\RenameCleanUp.csproj.CoreCompileInputs.cache
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\obj\Debug\RenameCleanUp.exe
+C:\Users\v-pmirizzi\Documents\Visual Studio 2017\Projects\LabelToolWithRename\RenameCleanUp\obj\Debug\RenameCleanUp.pdb
